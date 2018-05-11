@@ -4,3 +4,6 @@
 [submodule "resumaker-ios"]
 	path = resumaker-ios
 	url = https://github.com/darkmastermindz/resumaker-ios.git
+[submodule "resumaker-android"]
+	path = resumaker-android
+	url = https://github.com/darkmastermindz/resumaker-android.git
