@@ -1,0 +1,3 @@
+[submodule "resumaker-electron"]
+	path = resumaker-electron
+	url = https://github.com/darkmastermindz/resumaker-electron.git
